@@ -1,0 +1,8 @@
+[26-Sep-2015 18:22:42 Etc/GMT] PHP Fatal error:  Call to undefined method Inicio_model::getMunicipios() in /home/serlinj8/public_html/fec/application/controllers/Inicio.php on line 13
+[26-Sep-2015 18:22:58 Etc/GMT] PHP Fatal error:  Call to undefined method Inicio_model::getMunicipios() in /home/serlinj8/public_html/fec/application/controllers/Inicio.php on line 13
+[26-Sep-2015 22:06:40 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/serlinj8/public_html/fec/application/controllers/Inicio.php on line 66
+[26-Sep-2015 22:30:40 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/serlinj8/public_html/fec/application/controllers/Inicio.php on line 62
+[26-Sep-2015 22:57:54 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/serlinj8/public_html/fec/application/models/Inicio_model.php on line 57
+[27-Sep-2015 00:13:19 Etc/GMT] PHP Fatal error:  Call to a member function set_userdata() on a non-object in /home/serlinj8/public_html/fec/application/controllers/Inicio.php on line 53
+[27-Sep-2015 00:13:24 Etc/GMT] PHP Fatal error:  Call to a member function set_userdata() on a non-object in /home/serlinj8/public_html/fec/application/controllers/Inicio.php on line 53
+[27-Sep-2015 00:32:37 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/serlinj8/public_html/fec/application/views/clave.php on line 4
